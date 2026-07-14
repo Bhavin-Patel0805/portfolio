@@ -1,4 +1,4 @@
-import cv from "../assets/Bhavin Patel web.pdf"
+import cv from "../assets/Bhavin_Patel Resume.pdf"
 
 const DownloadButton = () => {
   return (
